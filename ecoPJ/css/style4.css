@@ -1,0 +1,24 @@
+* {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+#materiais-container{
+   background-color: #d9e9d8;
+   border: 3px solid #fff;
+   padding: 3%;
+   text-align: center;
+}
+h2{
+    font-weight: bold;
+    border-bottom: 2px solid #092919;
+}
+
+footer.bg-light text-center text-lg-start{
+	background-color: #092919;
+}
+

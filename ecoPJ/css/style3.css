@@ -1,0 +1,37 @@
+* {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+
+.cor{
+    background-color: #d9e9d8;
+}
+
+.qualidade_ar{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.noticias_sp h2{
+    border-bottom: 2px solid #092919;
+    margin-top: 11vh;
+    font-weight: bold; 
+    text-align: center;
+}
+
+.n1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.n2{
+    display: flex;
+    justify-content: space-around;
+}
